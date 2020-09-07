@@ -31,7 +31,7 @@ public class Parameters {
             System.out.println("Connection Failed");
             e.printStackTrace();
         }
-        throw new RuntimeException(" Ошибка блять!");
+        throw new RuntimeException("Ошибка!!!");
     }
 }
 
